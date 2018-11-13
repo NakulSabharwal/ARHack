@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Basics", "AR Basics.csproj", "{802C9DFD-6E51-1A43-5202-2DEF59247F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Basics.Plugins", "AR Basics.Plugins.csproj", "{FFF0F904-C7D9-3F53-743D-CACCA6129325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Basics.Editor", "AR Basics.Editor.csproj", "{72905C78-7B97-2D73-B03D-64FD9523CBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Basics.Editor.Plugins", "AR Basics.Editor.Plugins.csproj", "{60FDC760-6F7D-ABE7-12AD-23DDAF30EC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802C9DFD-6E51-1A43-5202-2DEF59247F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802C9DFD-6E51-1A43-5202-2DEF59247F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802C9DFD-6E51-1A43-5202-2DEF59247F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802C9DFD-6E51-1A43-5202-2DEF59247F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF0F904-C7D9-3F53-743D-CACCA6129325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF0F904-C7D9-3F53-743D-CACCA6129325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF0F904-C7D9-3F53-743D-CACCA6129325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF0F904-C7D9-3F53-743D-CACCA6129325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72905C78-7B97-2D73-B03D-64FD9523CBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72905C78-7B97-2D73-B03D-64FD9523CBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72905C78-7B97-2D73-B03D-64FD9523CBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72905C78-7B97-2D73-B03D-64FD9523CBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FDC760-6F7D-ABE7-12AD-23DDAF30EC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FDC760-6F7D-ABE7-12AD-23DDAF30EC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FDC760-6F7D-ABE7-12AD-23DDAF30EC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FDC760-6F7D-ABE7-12AD-23DDAF30EC18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

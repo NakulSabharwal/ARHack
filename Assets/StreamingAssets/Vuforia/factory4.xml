@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bar" size="0.050000 0.130971" />
+    <ImageTarget name="elolife" size="0.070000 0.047227" />
+  </Tracking>
+</QCARConfig>
